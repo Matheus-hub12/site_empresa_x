@@ -9,3 +9,7 @@ checkout tela de produto
 ###### Melhorias do projeto
 
 blalal
+
+### Imagem +1000 aura
+
+![Logo do itu](img/itu.png)
