@@ -1,6 +1,6 @@
 # E-commerce empresa x
 
-vamos curar um ecommer p-ara a empresa c e  
+vamos curar um **ecommerce** p-ara a *empresa* c e  
 
 ## funcionalidade:
 
